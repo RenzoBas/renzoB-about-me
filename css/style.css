@@ -1,0 +1,19 @@
+/*w3schools for reference*/
+
+/*Color of the body*/
+body {
+    border-style: outset;
+    background-color: mediumaquamarine;
+}
+
+/*This is for the title*/
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-style: double;
+    border-width: 10px;
+}
+
+/*Style for the paragraphs*/
+.para {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
